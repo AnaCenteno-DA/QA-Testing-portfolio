@@ -2,6 +2,14 @@
 
 ### 🧪 Test Cases – Login Functionality
 ---
+## 📋 Test Cases – File Upload Feature
+
+This section contains test cases designed to validate the file upload functionality.  
+The scenarios include positive, negative, and edge cases to ensure system reliability, usability, and error handling.
+
+### 🎯 Objective
+To verify that users can upload files correctly under different conditions, including file size limits, unsupported formats, and network interruptions.
+---
 
 
 | ID | Title | Type | Steps | Expected Result |
