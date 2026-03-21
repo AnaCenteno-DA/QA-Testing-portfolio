@@ -25,33 +25,6 @@ The objective of this portfolio is to demonstrate end-to-end QA testing skills i
 
 All artifacts simulate real-world QA processes used in Agile environments.
 
-
-## 📌 Overview
-
-This portfolio demonstrates practical QA testing skills applied in simulated real-world software projects.
-
-It reflects my ability to design test scenarios, execute functional validation, and document defects following QA best practices used in Agile environments.
-
----
-
-## 🛠️ Tools & Technologies
-
-- Jira – Bug tracking and issue management
-- Postman – API testing and validation
-- SQL – Data validation and queries
-- Agile / Scrum – Testing in iterative development environments
----
-
-## 🔍 Scope of Work
-
-* Functional Testing
-* Regression Testing
-* Test Case Design
-* Bug Reporting & Tracking
-* API Testing using Postman
-
----
-
 ## 📁 Repository Structure
 
 This repository is organized following a real QA workflow:
@@ -99,6 +72,32 @@ This repository is organized following a real QA workflow:
 * Response status verification
 
 📁 `/api-testing`
+
+
+## 📌 Overview
+
+This portfolio demonstrates practical QA testing skills applied in simulated real-world software projects.
+
+It reflects my ability to design test scenarios, execute functional validation, and document defects following QA best practices used in Agile environments.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Jira – Bug tracking and issue management
+- Postman – API testing and validation
+- SQL – Data validation and queries
+- Agile / Scrum – Testing in iterative development environments
+---
+
+## 🔍 Scope of Work
+
+* Functional Testing
+* Regression Testing
+* Test Case Design
+* Bug Reporting & Tracking
+* API Testing using Postman
+
 
 ---
 ## 🧠 QA Skills Demonstrated
