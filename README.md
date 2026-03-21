@@ -1,12 +1,10 @@
-# QA-Testing-portfolio
-Portfolio of testing projects experience
 
 # 🧪 QA Testing Portfolio – Manual QA & Data Analyst Hybrid
 
 Welcome to my QA Testing Portfolio.  
 This repository showcases my ability to design, execute, and document structured testing processes using real QA industry standards.
-
 It includes test planning, test case design, defect reporting, and test execution summaries applied to simulated real-world scenarios.
+
 ---
 
 ## 📌 Project Context
@@ -27,21 +25,23 @@ The objective of this portfolio is to demonstrate end-to-end QA testing skills i
 - Test execution analysis and reporting
 
 All artifacts simulate real-world QA processes used in Agile environments.
---
-
-## 📌 Overview
-
-With 4+ years of experience in software testing, I focus on ensuring **software quality, reliability, and user satisfaction** through structured testing practices.
-
-## 🛠️ Tools & Technologies
-
-* Jira
-* Postman
-* SQL
-* Agile / Scrum
 
 ---
 
+## 📌 Overview
+
+This portfolio demonstrates practical QA testing skills applied in simulated real-world software projects.
+
+It reflects my ability to design test scenarios, execute functional validation, and document defects following QA best practices used in Agile environments.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Jira – Bug tracking and issue management
+- Postman – API testing and validation
+- SQL – Data validation and queries
+- Agile / Scrum – Testing in iterative development environments
 ---
 
 ## 🔍 Scope of Work
