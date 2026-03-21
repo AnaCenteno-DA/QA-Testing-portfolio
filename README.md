@@ -43,7 +43,7 @@ With 4+ years of experience in software testing, I focus on ensuring **software 
 * Expected vs Actual results
 * Severity & Priority classification
 
-📁 `/bug-reports`
+📁 [Bug - reports](https://github.com/AnaCenteno-DA/QA-Testing-portfolio/tree/main/bug-reports)
 
 ---
 
