@@ -4,7 +4,7 @@
 Welcome to my QA Testing Portfolio.  
 This repository showcases my ability to design, execute, and document structured testing processes using real QA industry standards.
 It includes test planning, test case design, defect reporting, and test execution summaries applied to simulated real-world scenarios.
----
+
 
 ## 📌 Project Context
 
@@ -24,7 +24,7 @@ The objective of this portfolio is to demonstrate end-to-end QA testing skills i
 - Test execution analysis and reporting
 
 All artifacts simulate real-world QA processes used in Agile environments.
----
+
 
 ## 📌 Overview
 
