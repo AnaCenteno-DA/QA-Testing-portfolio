@@ -1,16 +1,38 @@
 # QA-Testing-portfolio
 Portfolio of testing projects experience
 
+# 🧪 QA Testing Portfolio – Manual QA & Data Analyst Hybrid
 
-# 🧪 QA Testing Portfolio
+Welcome to my QA Testing Portfolio.  
+This repository showcases my ability to design, execute, and document structured testing processes using real QA industry standards.
 
-This repository showcases my experience and practical work as a **QA Analyst**, including test case design, bug reporting, and API testing.
+It includes test planning, test case design, defect reporting, and test execution summaries applied to simulated real-world scenarios.
 
 ---
+## 🎯 Objective
+
+The objective of this portfolio is to demonstrate end-to-end QA testing skills including:
+
+- Test planning and strategy definition
+- Functional and exploratory test case design
+- Bug reporting with structured documentation
+- Test execution analysis and reporting
+
+All artifacts simulate real-world QA processes used in Agile environments.
+--
 
 ## 📌 Overview
 
 With 4+ years of experience in software testing, I focus on ensuring **software quality, reliability, and user satisfaction** through structured testing practices.
+
+## 🛠️ Tools & Technologies
+
+* Jira
+* Postman
+* SQL
+* Agile / Scrum
+
+---
 
 ---
 
@@ -24,7 +46,24 @@ With 4+ years of experience in software testing, I focus on ensuring **software 
 
 ---
 
-## 📂 Repository Structure
+## 📁 Repository Structure
+
+This repository is organized following a real QA workflow:
+
+- 📋 Test Plan → Defines scope, strategy, and testing approach
+- 🧪 Test Cases → Detailed functional, negative, and edge scenarios
+- 🐞 Bug Reports → Defects found during execution
+- 📊 Test Summary → Final execution results and quality assessment
+
+### 📋 Test Plan
+
+* Scope, objectives, and testing strategy
+* Entry & exit criteria
+* Risk analysis
+
+📁 [Test - Plan](https://github.com/AnaCenteno-DA/QA-Testing-portfolio/blob/main/test-plan/test-plan.md)
+
+---
 
 ### ✅ Test Cases
 
@@ -56,28 +95,43 @@ With 4+ years of experience in software testing, I focus on ensuring **software 
 📁 `/api-testing`
 
 ---
+## 🧠 QA Skills Demonstrated
 
-### 📋 Test Plan
+- Manual Functional Testing
+- Regression & Exploratory Testing
+- Test Case Design (positive, negative, edge cases)
+- Bug Reporting with structured reproduction steps
+- Test Documentation & QA Reporting
+- Basic understanding of QA lifecycle (STLC)
 
-* Scope, objectives, and testing strategy
-* Entry & exit criteria
-* Risk analysis
-
-📁 [Test - Plan](https://github.com/AnaCenteno-DA/QA-Testing-portfolio/blob/main/test-plan/test-plan.md)
-
----
-
-## 🛠️ Tools & Technologies
-
-* Jira
-* Postman
-* SQL
-* Agile / Scrum
 
 ---
 
-## 🎯 Objective
+## 💡 What This Portfolio Demonstrates
 
-This portfolio demonstrates my ability to apply QA methodologies in real-world scenarios and contribute to delivering high-quality software products.
+This project demonstrates my ability to:
 
----
+- Analyze requirements and translate them into test scenarios
+- Identify functional and UI defects
+- Document reproducible bug reports
+- Structure QA documentation following industry practices
+- Apply QA thinking in real-world simulated environments
+
+ ---
+ 
+## 📈 Value for QA Teams
+
+This portfolio reflects how I approach software quality:
+
+- Focus on user experience and system reliability
+- Clear and structured communication of defects
+- Attention to detail in validation scenarios
+- Ability to support Agile QA workflows
+
+## 📬 Contact
+
+- GitHub: https://github.com/AnaCenteno-DA  
+- Open to QA Analyst opportunities in Canada 🇨🇦  
+- Languages: English / French / Spanish
+
+
