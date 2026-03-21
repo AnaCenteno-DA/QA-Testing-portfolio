@@ -32,7 +32,7 @@ With 4+ years of experience in software testing, I focus on ensuring **software 
 * Includes positive and negative scenarios
 * Covers edge cases
 
-📁 [*/test-cases*](https://github.com/AnaCenteno-DA/QA-Testing-portfolio/blob/main/test-cases.md)
+ 📁 [Test Cases - Functional & Edge Scenarios](https://github.com/AnaCenteno-DA/QA-Testing-portfolio/blob/main/test-cases.md)
 
 ---
 
