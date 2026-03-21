@@ -63,7 +63,7 @@ With 4+ years of experience in software testing, I focus on ensuring **software 
 * Entry & exit criteria
 * Risk analysis
 
-📁 `/test-plan`
+📁 [Test - Plan](https://github.com/AnaCenteno-DA/QA-Testing-portfolio/blob/main/test-plan/test-plan.md)
 
 ---
 
