@@ -1,5 +1,5 @@
 
-# 🧪 QA Testing Portfolio – Manual QA & Data Analyst Hybrid
+# 🧪 QA Manual Testing Portfolio | Functional & Test Cases
 
 Welcome to my QA Testing Portfolio.  
 This repository showcases my ability to design, execute, and document structured testing processes using real QA industry standards.
