@@ -1,157 +1,129 @@
-
 # 🧪 QA Manual Testing Portfolio | Functional & Test Cases
 
-Welcome to my QA Testing Portfolio.  
-This repository showcases my ability to design, execute, and document structured testing processes using real QA industry standards.
-It includes test planning, test case design, defect reporting, and test execution summaries applied to simulated real-world scenarios.
-
-
-## 📌 Project Context
-
-This QA Testing Portfolio simulates a real-world web application testing scenario focused on validating core system functionality such as user workflows, data validation, and error handling.
-
-The project is structured to replicate a real QA environment following Agile practices, including test planning, execution, defect reporting, and final test reporting.
-
+Welcome to my QA Manual Testing Portfolio.  
+This repository showcases my ability to design, execute, and document manual testing activities following QA best practices.
 
 ---
-## 🎯 Objective
 
-The objective of this portfolio is to demonstrate end-to-end QA testing skills including:
+## 👩‍💻 About Me
 
-- Test planning and strategy definition
-- Functional and exploratory test case design
-- Bug reporting with structured documentation
-- Test execution analysis and reporting
+I am a QA professional with experience in IT and a strong focus on Manual Testing.
 
-All artifacts simulate real-world QA processes used in Agile environments.
+I specialize in:
+- Functional Testing
+- Test Case Design
+- Bug Reporting
+- User Acceptance Testing (UAT)
+- Exploratory Testing
+
+---
+
+## 🧪 Manual QA Skills
+
+- Test Case creation and execution
+- Functional & Regression Testing
+- Smoke & Sanity Testing
+- Exploratory Testing
+- Bug Reporting with clear reproduction steps
+- QA documentation and reporting
+
+---
+
+## 🛠️ Tools Used
+
+- Excel / Google Sheets (Test Case Design & Execution)
+- Jira (Bug Tracking - if applicable)
+- Browser DevTools
+- Postman (basic API validation)
+
+---
 
 ## 📁 Repository Structure
 
-This repository is organized following a real QA workflow:
+This repository follows a real QA Manual Testing workflow:
 
-- 📋 Test Plan → Defines scope, strategy, and testing approach
-- 🧪 Test Cases → Detailed functional, negative, and edge scenarios
-- 🐞 Bug Reports → Defects found during execution
-- 📊 Test Summary → Final execution results and quality assessment
-
-### 📋 Test Plan
-
-* Scope, objectives, and testing strategy
-* Entry & exit criteria
-* Risk analysis
-
-📁 [Test - Plan](https://github.com/AnaCenteno-DA/QA-Testing-portfolio/blob/main/test-plan/test-plan.md)
+- 📋 Test Plan → Testing scope, objectives, and strategy
+- 🧪 Test Cases → Positive, negative, and edge scenarios
+- 🐞 Bug Reports → Documented defects with steps to reproduce
+- 📊 Test Summary → Execution results and QA findings
 
 ---
 
-### ✅ Test Cases
+## 📋 Test Plan
 
-* Designed based on functional requirements
-* Includes positive and negative scenarios
-* Covers edge cases
+Defines the testing approach for the project:
+- Scope and objectives
+- Entry and exit criteria
+- Test strategy
+- Risks and assumptions
 
- 📁 [Test Cases - Functional & Edge Scenarios](https://github.com/AnaCenteno-DA/QA-Testing-portfolio/blob/main/test-cases/login-test-cases.md)
-
----
-
-### 🐞 Bug Reports
-
-* Detailed bug documentation
-* Steps to reproduce
-* Expected vs Actual results
-* Severity & Priority classification
-
-📁 [Bug - reports](https://github.com/AnaCenteno-DA/QA-Testing-portfolio/tree/main/bug-reports)
+📁 [View Test Plan](./test-plan/test-plan.md)
 
 ---
 
-### 🔌 API Testing
+## 🧪 Test Cases
 
-* Postman collections
-* Request validation
-* Response status verification
+Designed based on functional requirements:
+- Positive scenarios
+- Negative scenarios
+- Edge cases
 
-📁 `/api-testing`
-
-
-## 📌 Overview
-
-This portfolio demonstrates practical QA testing skills applied in simulated real-world software projects.
-
-It reflects my ability to design test scenarios, execute functional validation, and document defects following QA best practices used in Agile environments.
+📁 [View Test Cases](./test-cases/login-test-cases.md)
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🐞 Bug Reports
 
-- Jira – Bug tracking and issue management
-- Postman – API testing and validation
-- SQL – Data validation and queries
-- Agile / Scrum – Testing in iterative development environments
----
+Documented defects identified during testing:
+- Steps to reproduce
+- Expected vs actual results
+- Severity and priority
+- Screenshots (if applicable)
 
-## 🔍 Scope of Work
-
-* Functional Testing
-* Regression Testing
-* Test Case Design
-* Bug Reporting & Tracking
-* API Testing using Postman
-
-
----
-## 🧠 QA Skills Demonstrated
-
-- Manual Functional Testing
-- Regression & Exploratory Testing
-- Test Case Design (positive, negative, edge cases)
-- Bug Reporting with structured reproduction steps
-- Test Documentation & QA Reporting
-- Basic understanding of QA lifecycle (STLC)
-
+📁 [View Bug Reports](./bug-reports)
 
 ---
 
-## 💡 What This Portfolio Demonstrates
+## 📊 Test Summary
 
-This project demonstrates my ability to:
-
-- Analyze requirements and translate them into test scenarios
-- Identify functional and UI defects
-- Document reproducible bug reports
-- Structure QA documentation following industry practices
-- Apply QA thinking in real-world simulated environments
-
- ---
- 
-## 📈 Value for QA Teams
-
-This portfolio reflects how I approach software quality:
-
-- Focus on user experience and system reliability
-- Clear and structured communication of defects
-- Attention to detail in validation scenarios
-- Ability to support Agile QA workflows
+Final QA execution report including:
+- Test coverage
+- Passed / Failed cases
+- Key findings
+- Quality assessment
 
 ---
 
-  ## 📈 Project Impact
+## 🧠 QA Process Demonstrated
 
-This project demonstrates how I approach software quality assurance in real-world scenarios:
+This repository demonstrates:
+- Requirement analysis and test design
+- Structured test execution
+- Defect identification and reporting
+- QA documentation practices
+- Understanding of STLC (Software Testing Life Cycle)
 
-- Ensures system reliability through structured test coverage
-- Identifies functional and UI issues using systematic test design
-- Improves software quality by documenting reproducible defects
-- Supports decision-making through clear test execution reporting
+---
+
+## 💡 Project Value
+
+This project reflects my approach to software quality assurance:
+
+- Ensuring functional correctness of applications
+- Identifying UI and functional issues
+- Improving product quality through structured testing
+- Communicating defects clearly to development teams
+- Supporting Agile QA workflows
 
 ---
 
 ## 📫 Contact
+
 LinkedIn: https://www.linkedin.com/in/ana-centeno-tech/
 
 ---
 
-## 🔙 Return to Main Profile
+## 🔙 Back to GitHub Profile
 
 [![Back to Profile](https://img.shields.io/badge/Back%20to%20GitHub-Profile-blue?style=for-the-badge)](https://github.com/AnaCenteno-DA)
 
