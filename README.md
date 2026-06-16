@@ -146,10 +146,13 @@ This project demonstrates how I approach software quality assurance in real-worl
 
 ---
 
-## 📬 Contact
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/ana-centeno-tech/
 
-- GitHub: https://github.com/AnaCenteno-DA  
-- Open to QA Analyst opportunities in Canada 🇨🇦  
-- Languages: English / French / Spanish
+---
+
+## 🔙 Return to Main Profile
+
+[![Back to Profile](https://img.shields.io/badge/Back%20to%20GitHub-Profile-blue?style=for-the-badge)](https://github.com/AnaCenteno-DA)
 
 
